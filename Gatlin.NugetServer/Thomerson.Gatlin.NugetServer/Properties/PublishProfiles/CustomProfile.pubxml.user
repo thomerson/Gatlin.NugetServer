@@ -265,10 +265,10 @@
       <publishTime>01/28/2015 04:03:46</publishTime>
     </File>
     <File Include="bin/Thomerson.Gatlin.NugetServer.dll">
-      <publishTime>03/07/2020 16:09:28</publishTime>
+      <publishTime>03/07/2020 16:11:34</publishTime>
     </File>
     <File Include="bin/Thomerson.Gatlin.NugetServer.pdb">
-      <publishTime>03/07/2020 16:09:28</publishTime>
+      <publishTime>03/07/2020 16:11:34</publishTime>
     </File>
     <File Include="bin/WebActivatorEx.dll">
       <publishTime>10/05/2016 13:11:52</publishTime>
@@ -301,7 +301,7 @@
       <publishTime>03/07/2020 15:43:57</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>03/07/2020 16:09:34</publishTime>
+      <publishTime>03/07/2020 16:11:39</publishTime>
     </File>
   </ItemGroup>
 </Project>
